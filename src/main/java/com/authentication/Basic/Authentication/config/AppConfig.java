@@ -2,7 +2,6 @@ package com.authentication.Basic.Authentication.config;
 
 import com.authentication.Basic.Authentication.utility.JasyptDecryptor;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
 @Component
